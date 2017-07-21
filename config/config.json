@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "msrabbani",
+    "password": "d4m4l14",
+    "database": "cafe",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable" : "DATABASE_URL"
+  }
+}
